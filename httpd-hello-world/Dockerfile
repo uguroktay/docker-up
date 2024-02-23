@@ -1,3 +1,3 @@
 FROM bitnami/apache:latest
-COPY ./public_html/ /app
+COPY ./public_html/ /app/blog
 
